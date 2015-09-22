@@ -5,4 +5,7 @@ In order to run this program, you need 4 libraries: <b>jcommons, jfreechart, kxm
 
 The app supports two types of analysis, list and chart. 
 
+![alt tag](https://raw.githubusercontent.com/perceptron-XYZ/crawler_analysis/master/chartview.png)
+![alt tag](https://raw.githubusercontent.com/perceptron-XYZ/crawler_analysis/master/tableview.png)
+
 You have to choose a base element and an aggregate element. For example, 'developers' as base and 'total number of apps' as aggregate will give you the number of apps for each developer. You can also order the result in both orders.
