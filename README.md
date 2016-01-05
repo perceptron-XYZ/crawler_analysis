@@ -1,5 +1,8 @@
-# crawler_analysis
-It is the course project of COMP354 Software Engineering I. We implemented a small data visualization tool to analyze the data scraped from Google Play in Java.
+# App Visualizer
+In this school project, We implemented a small data visualization tool for app info stored in CSV.
+
+It provides a visualized analysis on the developer's level, for example: display the average rating for each developer.
+It is complemented by another project ([google_app_crawler_analyzer](https://github.com/xingyz/google_app_crawler_analyzer) )which has info about an individual app. 
 
 In order to run this program, you need 4 libraries: <b>jcommons, jfreechart, kxml and xstream</b>.
 
